@@ -1,1 +1,3 @@
 # My_First_Repository
+#This place seems cool...
+#what does it feature though? (thinking emoji)
